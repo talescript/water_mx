@@ -1,31 +1,41 @@
 # Mexico City's Water Crisis
 
-**Problem**: Mexico's water problems are numerous and complex. In 1950 mexico had 18,000 m<sup>3</sup> of water per capita per year. In 2015 it decreased to 3,692 m<sup>3</sup> per capita per year. Among some of the problems, some areas in Mexico suffer from the following:
+**Problem**: Mexico's water problems are numerous and complex. In 1950 Mexico had 18,000 m<sup>3</sup> of water per capita per year. In 2015 it decreased to 3,692 m<sup>3</sup> per capita per year. Among **_some of the problems_**, some areas in Mexico suffer from the following:
 
-* Water pressure
+* Low water pressure
 * Poor payment rates and high (or low) tariffs.
-    * On average only 72% off all bills are paid.
-    * 31% of water customers are charged a flat rate independant of consumption.
-* High consumption of water in some areas. i.e., Tlalpan.
+* On average only 72% off all bills are paid.
+* 31% of water customers are charged a flat rate independent of consumption.
+* High consumption of water in some areas. e.g., Tlalpan.
 
-_<strong>Note:</strong> The statistics might be outdated. They were compiled from various online sources and may not refer solely to mexico city_
+_<strong>Note:</strong> Statistics might be outdated. They were compiled from various online sources and may not refer solely to Mexico city_
 
+**Proposed solution**: Obviously we won't be tackling aspects such as the political side or the agricultural area since it would need a higher investment in resources. We will focus on **low water pressure** and **high tariffs** since these are the two areas where, if executed properly can see a ROI in the short term.
 
-**Proposed solution**: Behavioral change using a two fold system.
+* Low water pressure:
+* Changing the faucets for ones that give high pressure even if there is low water pressure.
+* High consumption:
+* Add a flow restrictor. This will help save water and reduce the water bill
 
+_<strong>Note:</strong> Faucets also include shower heads. These two ideas are not limited to only faucets. Additionally, these two concepts can be combined into a number of products that make use of water_
 
-* Water valves with timers and voice control
-A limit to consumption. Anything above will be charged accordingly.
+------- 
 
-* WHO proposes between 50 and 100 litres of water per person per day. 
+## Mental recap I have not explained, yet.
+
+Mexico currently has a serious water issue and needs to be corrected immediately. Look at how Cape Town averted their crisis. 
+
+With the *proposed solution*, by identifying the groups of people that have low water pressure and/or high consumption and/or high tariffs, by providing these groups of people with affordable solutions, we can then re-invest in the company to provide higher end products at a premium.
+
+Ideally, the long term plan would be to implement a law for all new families. By having a product (faucet) which has an additional feature. Auto shut off. The key point, besides saving water, would be the need to manually turn it back on (temporarily) which ought to change the behavioral attitude towards water consumption in a generation or two. 
+
+-------
+
+* WHO proposes between 50 and 100 liters of water per person per day. 
 Charging for anything above proposed X amount. Look into how much water 
-is concusmed on average by the Mexican person.
+is consumed on average by the Mexican person.
 
-* Mexicos average consumption is at 184.6 litres. The highest average is in Tlalpan at 560 liters per habitant while in Venustiano Carranza it was at 203 liters. This was in 2015.
-
-* Faucet - auto shut off, voice control to activate for short period
- 
-* manual control better. 
+* Mexico's average consumption is at 184.6 liters. The highest average is in Tlalpan at 560 liters per capita while in Venustiano Carranza it was at 203 liters. This was in 2015.
 
 ### Sources
 * [Mexico City;s water crisis](https://www.theguardian.com/cities/2015/nov/12/mexico-city-water-crisis-source-sewer)
@@ -44,4 +54,7 @@ is concusmed on average by the Mexican person.
 
 * [The human right to water and sanitation](https://www.un.org/waterforlifedecade/human_right_to_water.shtml)
 
-* [Mexicos Average consumption is 678.8 Cubic meters per capita annually](https://www.statista.com/statistics/263156/water-consumption-in-selected-countries/)
+* [Mexico's Average consumption is 678.8 Cubic meters per capita annually](https://www.statista.com/statistics/263156/water-consumption-in-selected-countries/)
+
+* [Cape Town Averts 'Day Zero' By Limiting Water Use](https://www.npr.org/2018/06/28/624397903/cape-town-averts-day-zero-by-limiting-water-use)
+
