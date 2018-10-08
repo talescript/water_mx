@@ -32,8 +32,7 @@ Ideally, the long term plan would be to implement a law for all new families. By
 -------
 
 * WHO proposes between 50 and 100 liters of water per person per day. 
-Charging for anything above proposed X amount. Look into how much water 
-is consumed on average by the Mexican person.
+Charging for anything above proposed X amount.
 
 * Mexico's average consumption is at 184.6 liters. The highest average is in Tlalpan at 560 liters per capita while in Venustiano Carranza it was at 203 liters. This was in 2015.
 
